@@ -10,31 +10,31 @@ Quivra는 사용자의 개인정보를 중요하게 생각합니다.
 Quivra는
 개인정보를 수집하지 않습니다.
 
-이름, 이메일, 전화번호 등 개인 식별 정보 ❌
+- 이름, 이메일, 전화번호 등 개인 식별 정보 ❌
 
-계정 생성 ❌
+- 계정 생성 ❌
 
-로그인 ❌
+- 로그인 ❌
 
 2. 파일 처리 방식
 
-사용자가 선택한 파일은 기기 내에서만 처리됩니다.
+- 사용자가 선택한 파일은 기기 내에서만 처리됩니다.
 
-파일은 외부 서버로 전송되지 않습니다.
+- 파일은 외부 서버로 전송되지 않습니다.
 
-변환 결과 역시 사용자 기기 내에만 저장됩니다.
+- 변환 결과 역시 사용자 기기 내에만 저장됩니다.
 
-Quivra는 파일 내용을 확인하거나 저장하지 않습니다.
+- Quivra는 파일 내용을 확인하거나 저장하지 않습니다.
 
 3. 광고 및 분석 도구
 
 Quivra는
 
-광고 SDK ❌
+- 광고 SDK ❌
 
-사용자 행동 분석 도구 ❌
+- 사용자 행동 분석 도구 ❌
 
-제3자 추적 도구 ❌
+- 제3자 추적 도구 ❌
 
 를 사용하지 않습니다.
 
@@ -83,31 +83,31 @@ This app operates as described below.
 
 Quivra does not collect any personal information.
 
-No personal identifiers such as name, email address, or phone number
+- No personal identifiers such as name, email address, or phone number
 
-No account creation
+- No account creation
 
-No sign-in or login required
+- No sign-in or login required
 
 2. File Handling
 
-Files selected by the user are processed only on the device.
+- Files selected by the user are processed only on the device.
 
-Files are never uploaded to external servers.
+- Files are never uploaded to external servers.
 
-Converted files are also stored only on the user’s device.
+- Converted files are also stored only on the user’s device.
 
-Quivra does not view, store, or analyze file contents.
+- Quivra does not view, store, or analyze file contents.
 
 3. Advertising and Analytics
 
 Quivra does not use:
 
-Advertising SDKs
+- Advertising SDKs
 
-User behavior analytics tools
+- User behavior analytics tools
 
-Third-party tracking tools
+- Third-party tracking tools
 
 4. Sharing with Third Parties
 
