@@ -1,4 +1,10 @@
-📄 개인정보 처리방침 (Privacy Policy)
+# Privacy Policy
+
+This Privacy Policy applies to the Quivra app.
+
+---
+
+## 개인정보 처리방침 (Korean)
 
 [한국어 전문]
 
@@ -66,13 +72,13 @@ Quivra는
 개인정보 처리방침에 대한 문의는
 아래 이메일로 연락하실 수 있습니다.
 
-📧 이메일: onnellab.app@gmail.com
+이메일: onnellab.app@gmail.com
 
-최종 업데이트일
-
-2026년 2월 10일
+최종 업데이트일: 2026년 2월 10일
 
 ---
+
+## Privacy Policy (English)
 
 [English version]
 
@@ -138,7 +144,7 @@ through the app store listing or within the app.
 If you have any questions about this Privacy Policy,
 please contact us at:
 
-📧 Email: onnellab.app@gmail.com
+Email: onnellab.app@gmail.com
 
-Last updated:
-February 10, 2026
+Last updated: February 10, 2026
+
